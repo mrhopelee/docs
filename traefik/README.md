@@ -21,6 +21,8 @@ WARNING:
 -	[`v1.6.5`, `1.6.5`, `v1.6`, `1.6`, `tetedemoine`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/3ec5ce5d64e79eeafbe082c4690b9ca40cda013a/scratch/amd64/Dockerfile)
 -	[`v1.6.5-alpine`, `1.6.5-alpine`, `v1.6-alpine`, `1.6-alpine`, `tetedemoine-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/3ec5ce5d64e79eeafbe082c4690b9ca40cda013a/alpine/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/traefik/badge/icon) (`amd64/traefik` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/traefik/)
+
 # Quick reference
 
 -	**Where to get help**:  
